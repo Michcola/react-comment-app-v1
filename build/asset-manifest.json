@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-comment-app-v1/build/static/css/main.51befc36.chunk.css",
+    "main.js": "/react-comment-app-v1/build/static/js/main.0e08e66e.chunk.js",
+    "main.js.map": "/react-comment-app-v1/build/static/js/main.0e08e66e.chunk.js.map",
+    "runtime~main.js": "/react-comment-app-v1/build/static/js/runtime~main.67e55dd7.js",
+    "runtime~main.js.map": "/react-comment-app-v1/build/static/js/runtime~main.67e55dd7.js.map",
+    "static/js/2.e703e8cc.chunk.js": "/react-comment-app-v1/build/static/js/2.e703e8cc.chunk.js",
+    "static/js/2.e703e8cc.chunk.js.map": "/react-comment-app-v1/build/static/js/2.e703e8cc.chunk.js.map",
+    "index.html": "/react-comment-app-v1/build/index.html",
+    "precache-manifest.d14a25c7bf576b0bb659faeee98c7065.js": "/react-comment-app-v1/build/precache-manifest.d14a25c7bf576b0bb659faeee98c7065.js",
+    "service-worker.js": "/react-comment-app-v1/build/service-worker.js",
+    "static/css/main.51befc36.chunk.css.map": "/react-comment-app-v1/build/static/css/main.51befc36.chunk.css.map"
+  }
+}
